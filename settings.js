@@ -1,5 +1,5 @@
 const dataContent = {
-    name: "Pre-Sale Inferno", // Name
+    name: "Otherdeed for Otherside", // Name
     supply: "1200", // supply value
     socialMedia: {
         discord: "https://discord.gg/2StBGaAHgy", // if not, set empty
